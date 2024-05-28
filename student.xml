@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <name>Anastasiia</name>
+     <age>26</age>
+     <faculty>Management</faculty>
+     <friends>John</friends>
+     <friends>Anna</friends>
+     <friends>Peter</friends>
+     <address>
+         <John>
+             <age>30</age>
+             <city>New York</city>
+         </John>
+     </address>
+     <isGraduated>false</isGraduated>
+     <graduationYear></graduationYear>
+     <children></children>
+ </root>
