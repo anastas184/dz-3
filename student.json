@@ -1,0 +1,12 @@
+{
+    "name":"Anastasiia",
+    "age":26,
+    "faculty":"Management",
+    "friends": ["John", "Anna", "Peter"],
+    "address": {
+        "John":{"age":30,"city":"New York" }
+    },
+    "isGraduated": false,
+    "graduationYear": null,
+    "children": null
+}
